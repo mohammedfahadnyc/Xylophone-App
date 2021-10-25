@@ -5,7 +5,7 @@
 
 
 
-Create the next hypnotising symphony with this xylophone app !
+Create the next hypnotising symphony with this xylophone app ! Make sure your audio is on before playing the demo video to experience the app better.
 
 https://user-images.githubusercontent.com/54411378/138652616-2694b6ea-0ebe-4382-b4e1-1b4688470caf.mov
 
